@@ -2,7 +2,7 @@ title: "Alexi Karuna"
 description: "Freelance SRE, Backend Engineer, AI/LLM Systems"
 url: "https://alexikaruna.com"
 
-remote_theme: "alexikaruna/no-style-please"
+remote_theme: "riggraz/no-style-please"
 
 plugins:
   - jekyll-include-cache
